@@ -1,0 +1,13 @@
+
+
+.main.header{
+    color: darkcyan;
+    font-family: Damascus;
+}
+body {
+    background-color: tan;
+}
+.pizza{
+    height: auto;
+    width: 500px;
+}
