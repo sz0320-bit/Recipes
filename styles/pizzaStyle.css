@@ -1,8 +1,8 @@
 
 
-.main.header{
-    color: darkcyan;
-    font-family: Damascus;
+.pizzaHead{
+    font-family: Impact;
+    color: goldenrod;
 }
 body {
     background-color: tan;
